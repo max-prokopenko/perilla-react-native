@@ -22,6 +22,7 @@ export default class AwesomeProject extends Component {
     routes: [
       { key: '1', title: 'Map' },
       { key: '2', title: 'My places' },
+      { key: '3', title: 'Settings' },
     ],
   };
 
@@ -38,6 +39,8 @@ export default class AwesomeProject extends Component {
     case '1':
       return <App />;
     case '2':
+      return <MyPlaces />;
+    case '3':
       return <MyPlaces />;
     default:
       return null;

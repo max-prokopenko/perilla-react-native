@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
 const Row = (props) => (
     <TouchableOpacity style={styles.container}>
       <Text style={styles.text}>
-        {`${props.name.first} ${props.name.last}`}
+        {`${props.adress}`}
       </Text>
      </TouchableOpacity>
 
