@@ -1,1 +1,1 @@
-![alt tag](https://raw.githubusercontent.com/max-prokopenko/perilla-react-native/blob/master/screenshot.jpg)
+![alt tag](https://github.com/max-prokopenko/perilla-react-native/blob/master/screenshot.jpg)
